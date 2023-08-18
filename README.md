@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bradley124
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Front-end Web development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Front end projects
 - 📫 How to reach me abanabradley83@gmail.com or abanabradley83@outlook.com
